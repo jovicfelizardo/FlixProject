@@ -21,6 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
+It took a lot of time to find the way to display the collections view. It wasn't giving me the right formatting. What it worked for other people didn't work for me. I am not sure if it was an xcode bug bc when I deselct and select again an specific option from the storyboard, suddenly it worked!
 
 ---
 
@@ -37,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 
-<img src="https://recordit.co/gipcB0KlXn.gif" width=250><br>
+<img src="https://recordit.co/ufgxD7mJW3.gif" width=250><br>
 
 ### Notes
-Constraints it's definetly the hardest part. I still don't feel that I got it. It's too confusing!
+
